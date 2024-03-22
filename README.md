@@ -55,7 +55,9 @@
 <!---
 ![stats](https://github-readme-stats.vercel.app/api?username=jakeerc&theme=blue-green) 
 --->
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeerc&theme=blue-green)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=jakeerc&theme=material)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeerc&theme=material)
 
 <!---
 JakeerC/JakeerC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
