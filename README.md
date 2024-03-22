@@ -54,10 +54,18 @@
 ## Stats
 <!---
 ![stats](https://github-readme-stats.vercel.app/api?username=jakeerc&theme=blue-green) 
---->
+
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=jakeerc&theme=material)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeerc&theme=material)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeerc&theme=cobalt)
+--->
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakeerc&theme=material" width='48%'  /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakeerc&theme=cobalt" width='48%' /> 
+
+
+
+
 
 <!---
 JakeerC/JakeerC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
