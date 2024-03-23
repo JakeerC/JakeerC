@@ -94,7 +94,7 @@
 
 ## Statistics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakeerc&theme=react" width='33%'  />  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakeerc&layout=compact&theme=react&langs_count=6"   width='33%' /> <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=jakeer&layout=compact&theme=react&langs_count=6"  width='33%' />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakeerc&layout=compact&theme=react&langs_count=6"   width='33%' /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakeerc&theme=react" width='33%'  />   <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=jakeer&layout=compact&theme=react&langs_count=6&v=2"  width='33%' />
 
 <!---
 ![stats](https://github-readme-stats.vercel.app/api?username=jakeerc&theme=blue-green) 
