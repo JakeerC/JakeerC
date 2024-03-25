@@ -1,4 +1,4 @@
-## Hi there, I’m  [Jakeer](https://jakeer.vercel.app) 💻
+## Hi there, I’m  [Jakeer](https://jakeer.vercel.app)
 
 [![wakatime](https://wakatime.com/badge/user/018dda6f-93b7-4b89-8b72-677522877b38.svg?style=for-the-badge)](https://wakatime.com/@018dda6f-93b7-4b89-8b72-677522877b38?style=for-the-badge)
 ![Profile views](https://komarev.com/ghpvc/?username=jakeerc&style=for-the-badge&color=336600)
