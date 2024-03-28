@@ -111,8 +111,8 @@
 ## You can find me on
 ![[LinkedIn](https://www.linkedin.com/in/chilakalajakeer/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![[twitter](https://twitter.com/jakeerchilakala)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![DevTO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
-![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
+<!---![DevTO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
+![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white) -->
 
 <!--- Footer (waves) --->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width='100%'/>
