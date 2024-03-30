@@ -94,7 +94,10 @@
 
 ## Statistics
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakeerc&layout=compact&theme=react&langs_count=6"   width='33%' /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakeerc&theme=react" width='33%'  />   <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=jakeer&layout=compact&theme=react&langs_count=6&v=2"  width='33%' />
+<div align='center'>
+<img  src="https://github-readme-stats.vercel.app/api?username=jakeerc&theme=react"  height="200px"  />   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakeerc&layout=compact&theme=react&langs_count=6"   height="200px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakeerc&theme=react"  height="150px" /> <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=jakeer&layout=compact&theme=react&langs_count=6&v=2"  height="150px" />
+</div>
 
 <!---
 ![stats](https://github-readme-stats.vercel.app/api?username=jakeerc&theme=blue-green) 
@@ -109,8 +112,8 @@
 
 
 ## You can find me on
-![[LinkedIn](https://www.linkedin.com/in/chilakalajakeer/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![[twitter](https://twitter.com/jakeerchilakala)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chilakalajakeer/)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jakeerchilakala)
 <!---![DevTO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 ![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white) -->
 
