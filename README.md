@@ -3,7 +3,7 @@
 
 <details>
   <summary>
-    want to know more about me 
+    click here to know more 
   </summary>
   <div>
 
