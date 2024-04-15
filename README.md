@@ -106,7 +106,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018dda6f-93b7-4b89-8b72-677522877b38.svg?style=for-the-badge)](https://wakatime.com/@018dda6f-93b7-4b89-8b72-677522877b38?style=for-the-badge)  ![Profile views](https://komarev.com/ghpvc/?username=jakeerc&style=for-the-badge&color=336600)
 
-<img  src="https://github-readme-stats.vercel.app/api?username=jakeerc&theme=react"  height="200px"  />   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakeerc&layout=compact&theme=react&langs_count=6"   height="200px" />
+<img  src="https://github-readme-stats.vercel.app/api?username=jakeerc&theme=react&show_icons=true&count_private=true&hide=contribs"  height="160px"  />   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakeerc&layout=compact&theme=react&langs_count=6"   height="160px" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakeerc&theme=react"  height="150px" /> <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=jakeer&layout=compact&theme=react&langs_count=6&v=2"  height="150px" />
 </div>
 
