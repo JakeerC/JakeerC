@@ -1,4 +1,13 @@
-## Hi there, I’m  [Jakeer](https://jakeer.vercel.app)
+<p align="center">
+  <samp>
+    <a href="https://jakeer.vercel.app">me</a> .
+    <a href="https://jakeer.vercel.app/blog">blog</a> .    
+    <a href="https://twitter.com/jakeerchilakala">tweets</a> .
+    <a href="https://instagram.com/jakeerc">instagram</a> .
+    <a href="https://github.com/sponsors/jakeerc">sponsor</a>
+  </samp>
+</p>
+
 
 
 <details>
@@ -103,11 +112,11 @@
 
 
 <div align='center'>
-
-[![wakatime](https://wakatime.com/badge/user/018dda6f-93b7-4b89-8b72-677522877b38.svg?style=for-the-badge)](https://wakatime.com/@018dda6f-93b7-4b89-8b72-677522877b38?style=for-the-badge)  ![Profile views](https://komarev.com/ghpvc/?username=jakeerc&style=for-the-badge&color=336600)
+<!--
+[![wakatime](https://wakatime.com/badge/user/018dda6f-93b7-4b89-8b72-677522877b38.svg?style=for-the-badge)](https://wakatime.com/@018dda6f-93b7-4b89-8b72-677522877b38?style=for-the-badge)  -->
 
 <img  src="https://github-readme-stats.vercel.app/api?username=jakeerc&theme=react&show_icons=true&count_private=true&hide=contribs"  height="160px"  />   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakeerc&layout=compact&theme=react&langs_count=6"   height="160px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakeerc&theme=react"  height="150px" /> <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=jakeer&layout=compact&theme=react&langs_count=6&v=2"  height="150px" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakeerc&theme=react"  height="150px" /> <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=jakeer&layout=compact&theme=react&langs_count=6&v=2"  height="150px" /> -->
 </div>
 
 <!---
@@ -128,6 +137,7 @@
 <!---![DevTO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 ![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white) -->
 
+ ![Profile views](https://komarev.com/ghpvc/?username=jakeerc&style=for-the-badge&color=336600)
 <!--- Footer (waves) --->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width='100%'/>
 </div>
