@@ -3,16 +3,19 @@
     <a href="https://jakeer.vercel.app">me</a> .
     <a href="https://jakeer.vercel.app/blog">blog</a> .    
     <a href="https://twitter.com/jakeerchilakala">tweets</a> .
-    <a href="https://instagram.com/jakeerc">instagram</a> .
+    <a href="https://instagram.com/jakeer_c">instagram</a> .
     <a href="https://github.com/sponsors/jakeerc">sponsor</a>
   </samp>
 </p>
 
+Hi! I'm **Jakeer** a Senior Software Engineer (AVP) with a deep expertise in JavaScript.  I've honed my skills in crafting high-quality, efficient software solutions.  Beyond the code itself, I'm also passionate about collaboration and enjoy mentoring other engineers to help grow together.
+
+<!--credits:  https://github.com/jaredpalmer/jaredpalmer/blob/main/README.md -->
 
 
 <details>
   <summary>
-    click here to know more 
+    more 
   </summary>
   <div>
 
