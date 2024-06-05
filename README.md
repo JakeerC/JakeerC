@@ -133,10 +133,6 @@ Hi! I'm **Jakeer** a Senior Software Engineer (AVP) with a deep expertise in Jav
    <img src="https://wakatime.com/share/@Jakeer/8e3f235c-e4e5-4f42-bddf-6dde345ddb5c.svg" width='48%' /> 
 --->
 
-
-## You can find me on
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chilakalajakeer/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jakeerchilakala)
 <!---![DevTO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 ![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white) -->
 
